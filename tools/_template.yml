@@ -1,0 +1,14 @@
+name: Tool name
+slug: tool-name
+category: automation
+summary: One concrete sentence explaining the job this tool helps complete.
+website: https://example.com
+source: https://github.com/example/example
+pricing: Unknown
+deployment: Hosted, self-hosted, or desktop
+privacy: Describe where user data goes and what the contributor verified.
+languages:
+  - Indonesian
+tags:
+  - practical
+submitted_by: github-handle

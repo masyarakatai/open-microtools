@@ -1,0 +1,12 @@
+name: n8n
+slug: n8n
+category: automation
+summary: Builds repeatable workflows that connect apps, APIs, spreadsheets, and AI steps.
+website: https://n8n.io
+source: https://github.com/n8n-io/n8n
+pricing: Self-hosted Community Edition available; hosted plans are paid.
+deployment: Self-hosted or hosted
+privacy: Self-hosting keeps workflow data in your chosen infrastructure; hosted use is governed by n8n's service terms.
+languages: [Indonesian, English]
+tags: [automation, workflow, ai]
+submitted_by: open-microtools

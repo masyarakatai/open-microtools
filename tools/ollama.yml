@@ -1,0 +1,12 @@
+name: Ollama
+slug: ollama
+category: local-ai
+summary: Runs supported language models locally through a simple desktop and API workflow.
+website: https://ollama.com
+source: https://github.com/ollama/ollama
+pricing: Open-source software; model and hardware requirements vary.
+deployment: Desktop or self-hosted
+privacy: Local requests stay on the machine unless you add a remote service or integration.
+languages: [English]
+tags: [local-ai, models, api]
+submitted_by: open-microtools

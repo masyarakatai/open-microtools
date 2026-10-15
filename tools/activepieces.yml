@@ -1,0 +1,12 @@
+name: Activepieces
+slug: activepieces
+category: automation
+summary: Creates no-code automations with triggers and actions for everyday business workflows.
+website: https://www.activepieces.com
+source: https://github.com/activepieces/activepieces
+pricing: Open-source self-hosted edition available; cloud plans may apply.
+deployment: Self-hosted or hosted
+privacy: Self-hosted deployments keep connection credentials and task data in your own environment.
+languages: [English]
+tags: [automation, no-code, workflow]
+submitted_by: open-microtools

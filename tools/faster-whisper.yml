@@ -1,0 +1,12 @@
+name: Faster Whisper
+slug: faster-whisper
+category: transcription
+summary: Transcribes audio locally with a faster implementation of Whisper.
+website: https://github.com/SYSTRAN/faster-whisper
+source: https://github.com/SYSTRAN/faster-whisper
+pricing: Open-source; local compute costs only.
+deployment: Local or self-hosted
+privacy: Audio can be processed locally when you run it on your own hardware.
+languages: [Indonesian, English]
+tags: [transcription, audio, local-ai]
+submitted_by: open-microtools

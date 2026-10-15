@@ -1,0 +1,12 @@
+name: LiteLLM
+slug: litellm
+category: developer-tools
+summary: Gives applications one consistent interface for using multiple LLM providers.
+website: https://www.litellm.ai
+source: https://github.com/BerriAI/litellm
+pricing: Open-source proxy available; model-provider charges still apply.
+deployment: Self-hosted or hosted
+privacy: Prompts are forwarded to the provider selected by your configuration; self-hosting controls proxy logs.
+languages: [English]
+tags: [llm, api, observability]
+submitted_by: open-microtools

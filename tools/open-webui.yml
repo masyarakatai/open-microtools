@@ -1,0 +1,12 @@
+name: Open WebUI
+slug: open-webui
+category: local-ai
+summary: Provides a browser interface for local or remote LLMs, including document chat.
+website: https://openwebui.com
+source: https://github.com/open-webui/open-webui
+pricing: Open-source; infrastructure and any external model usage may cost money.
+deployment: Self-hosted
+privacy: With a local model and self-hosted deployment, prompts can remain in your own infrastructure; external model providers receive requests sent to them.
+languages: [English]
+tags: [local-ai, chat, rag]
+submitted_by: open-microtools

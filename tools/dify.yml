@@ -1,0 +1,12 @@
+name: Dify
+slug: dify
+category: ai-workflows
+summary: Builds production-oriented AI apps with prompt, knowledge-base, and workflow controls.
+website: https://dify.ai
+source: https://github.com/langgenius/dify
+pricing: Open-source self-hosted edition available; cloud plans may apply.
+deployment: Self-hosted or hosted
+privacy: Self-hosting controls where app data is stored; model-provider data handling depends on the provider selected.
+languages: [English]
+tags: [llm, knowledge-base, workflow]
+submitted_by: open-microtools

@@ -1,0 +1,12 @@
+name: changedetection.io
+slug: changedetection-io
+category: monitoring
+summary: Watches web pages for meaningful changes and can alert you when a price, announcement, or form changes.
+website: https://changedetection.io
+source: https://github.com/dgtlmoon/changedetection.io
+pricing: Open-source self-hosted edition available; hosted plans may apply.
+deployment: Self-hosted or hosted
+privacy: A self-hosted instance stores watched URLs and snapshots in your chosen environment.
+languages: [English]
+tags: [monitoring, web, alerts]
+submitted_by: open-microtools

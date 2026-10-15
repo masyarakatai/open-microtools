@@ -1,0 +1,12 @@
+name: Langfuse
+slug: langfuse
+category: observability
+summary: Traces LLM calls and evaluates prompt quality so teams can improve AI features.
+website: https://langfuse.com
+source: https://github.com/langfuse/langfuse
+pricing: Open-source self-hosted edition available; cloud plans may apply.
+deployment: Self-hosted or hosted
+privacy: Traces may include prompts and outputs; self-hosting lets teams choose their storage and retention settings.
+languages: [English]
+tags: [llm, tracing, evaluation]
+submitted_by: open-microtools

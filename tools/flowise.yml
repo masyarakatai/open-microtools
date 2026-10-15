@@ -1,0 +1,12 @@
+name: Flowise
+slug: flowise
+category: ai-workflows
+summary: Visually assembles LLM apps, retrieval flows, and chatbot pipelines.
+website: https://flowiseai.com
+source: https://github.com/FlowiseAI/Flowise
+pricing: Open-source self-hosted edition available; cloud offering available.
+deployment: Self-hosted or hosted
+privacy: Self-hosted deployments route prompts and documents according to the model providers you configure.
+languages: [English]
+tags: [llm, chatbot, rag]
+submitted_by: open-microtools
