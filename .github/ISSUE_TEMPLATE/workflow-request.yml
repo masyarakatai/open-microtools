@@ -1,0 +1,38 @@
+name: Minta workflow atau project
+description: Ajukan masalah kerja nyata yang ingin dibantu dengan AI atau otomasi.
+title: "[Workflow request]: "
+labels: [workflow-request]
+body:
+  - type: markdown
+    attributes:
+      value: "Terima kasih. Jangan sertakan data pribadi, kredensial, atau materi klien rahasia."
+  - type: textarea
+    id: problem
+    attributes:
+      label: Masalah yang ingin diselesaikan
+      description: Ceritakan proses kerja saat ini dan bagian yang paling merepotkan.
+      placeholder: "Setiap minggu saya menerima... lalu harus..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected-result
+    attributes:
+      label: Hasil yang diinginkan
+      description: Output seperti apa yang akan membuat ini berguna?
+    validations:
+      required: true
+  - type: input
+    id: tools
+    attributes:
+      label: Tool yang sudah digunakan
+      placeholder: "WhatsApp, Google Sheets, n8n, atau belum ada"
+  - type: dropdown
+    id: sensitivity
+    attributes:
+      label: Sensitivitas data
+      options:
+        - Tidak ada data pribadi
+        - Ada data pribadi, perlu anonimisasi
+        - Rahasia, tidak bisa dibagikan
+    validations:
+      required: true
